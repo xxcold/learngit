@@ -1,2 +1,4 @@
 Today is Friday.
 Tomorrow is Saturday.
+Boss is a man.
+BOSS isn't handsome.
