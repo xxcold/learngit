@@ -1,1 +1,2 @@
-Today is friday.
+Today is Friday.
+Tomorrow is Saturday.
